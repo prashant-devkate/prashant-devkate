@@ -21,6 +21,7 @@ I have hands-on experience across **.NET backend development, multi-cloud platfo
 
 ---
 
+<--
 ## Projects & Work
 
 ### Integrated Trading & Accounting System  
@@ -105,7 +106,7 @@ I have hands-on experience across **.NET backend development, multi-cloud platfo
 - Reliability, observability, and production readiness
 
 ---
-
+-->
 ## 📫 Let’s Connect
 
 - **LinkedIn:** https://www.linkedin.com/in/prashant-devkate/
