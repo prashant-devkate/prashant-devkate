@@ -21,7 +21,7 @@ I have hands-on experience across **.NET backend development, multi-cloud platfo
 
 ---
 
-## Selected Projects & Work
+## Projects & Work
 
 ### Integrated Trading & Accounting System  
 **Role:** .NET Backend Developer  
