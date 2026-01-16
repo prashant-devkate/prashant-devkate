@@ -74,7 +74,7 @@ I have hands-on experience across **.NET backend development, multi-cloud platfo
 ---
 
 ### InventoryPro  
-**Type:** Billing Software 
+**Type:** Billing Software   
 **Domain:** Retail  
 - Built a **billing, inventory management, and sales system**  
 - Tech stack: **.NET, SQL Server**  
